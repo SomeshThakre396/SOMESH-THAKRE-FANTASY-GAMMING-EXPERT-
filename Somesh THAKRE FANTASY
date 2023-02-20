@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Somesh Thakre - Expert in Fantasy Sports</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+		}
+
+		header {
+			background-color: #333;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+
+		h1 {
+			margin: 0;
+		}
+
+		nav {
+			background-color: #f2f2f2;
+			overflow: hidden;
+		}
+
+		nav a {
+			float: left;
+			color: #333;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+			font-size: 17px;
+		}
+
+		nav a:hover {
+			background-color: #ddd;
+			color: #333;
+		}
+
+		section {
+			padding: 20px;
+			background-color: #f2f2f2;
+		}
+
+		.row:after {
+			content: "";
+			display: table;
+			clear: both;
+		}
+
+		.col-25 {
+			float: left;
+			width: 25%;
+			margin-top: 6px;
+		}
+
+		.col-75 {
+			float: left;
+			width: 75%;
+			margin-top: 6px;
+		}
+
+		@media screen and (max-width: 600px) {
+			.col-25, .col-75, input[type="submit"] {
+				width: 100%;
+				margin-top: 0;
+			}
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Somesh Thakre - Expert in Fantasy Sports</h1>
+	</header>
+	<nav>
+		<a href="#">Home</a>
+		<a href="#">About</a>
+		<a href="#">Contact</a>
+	</nav>
+	<section>
+		<h2>About Somesh Thakre</h2>
+		<p>Are you tired of losing in fantasy sports tournaments? Look no further than Somesh Thakre, the expert in Dream 11, Winzo, and My11circle teams. Somesh can help you win in grand league tournaments, small league tournaments, 1 on 1, and more. He has extensive knowledge of cricket T20, ODI, test matches, football, football leagues, IPL, and other minor leagues like PSL, BBC, BPL, CPL.</p>
+		<p>Contact Somesh on Telegram to take advantage of this opportunity to make your fantasy sports dreams come true. With his expertise, you can finally see success in the tournaments you enter. If for any reason you don't win, you can get an instant refund.</p>
+		<h2>Contact Somesh</h2>
+		<div class="row">
+			<div class="col-25">
+				<label for="name">Name:</label>
+			</div>
+			<div class="col-75">
+				<input type="text" id="name" name="name" placeholder="Your name..">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-25">
+				<label for="email">Email:</label>
+			</div>
+			<div class="col-75">
+				<input type="email" id="email" name="email" placeholder="
